@@ -3,7 +3,7 @@
     bottom: 120px; /* WhatsApp ikonunun üstünde */
     right: 15px;
     z-index: 10;
-    background-color: #E1306C; /* Instagram pembe tonu */
+    background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
     color: white;
     padding: 10px;
     border-radius: 50%;
