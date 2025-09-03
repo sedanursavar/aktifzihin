@@ -1,0 +1,23 @@
+.fixed-instagram {
+    position: fixed;
+    bottom: 120px; /* WhatsApp ikonunun üstünde */
+    right: 15px;
+    z-index: 10;
+    background-color: #E1306C; /* Instagram pembe tonu */
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+}
+
+.instagram-icon {
+    width: 20px;   /* Küçülttüm */
+    height: 20px;  /* Küçülttüm */
+    flex-shrink: 0; /* Taşma olmasın diye */
+}
