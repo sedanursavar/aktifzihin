@@ -1,0 +1,20 @@
+.header-flex {
+    display: flex;
+    justify-content: space-between; /* adres sola, telefon sağa */
+    align-items: center;
+}
+
+.header-flex a {
+    color: #333;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.header-flex i {
+    margin-right: 6px;
+    color: #E1306C; /* ikon rengi */
+}
+
+.phone-link {
+    margin-left: 100px; /* telefonu en sağa yaslar */
+}

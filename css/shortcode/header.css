@@ -61,19 +61,19 @@
 .ht__header__top__left p,
 .ht__header__top__right p  {
     color: #8a8a8a;
-    font-family: "droid_serifregular";
+    font-family: 'Merriweather', serif;
     font-size: 14px;
 }
 .ht__header__top__right {
     color: #8a8a8a;
     float: right;
-    font-family: "droid_serifregular";
+    font-family: 'Merriweather', serif;
     font-size: 14px;
 }
 .logo {
     align-items: center;
     display: flex;
-    width: 125px;
+    width: 110px;
 }
 .main__menu__nav {
     display: flex;
